@@ -1,5 +1,5 @@
 ####
-# Each team's file must define four tokens:
+# Each team's file must define  ` tokens:
 #     team_name: a string
 #     strategy_name: a string
 #     strategy_description: a string
